@@ -29,7 +29,7 @@ body {
   -webkit-text-stroke: 2px #ff8e00;
 }
 .panel2 {
-  background-image: url(../pictures/cober.jpg);
+  background-image: url(../pictures/reunion.jpg);
   -webkit-text-stroke: 2px #ffff00;
 }
 .panel3 {
@@ -41,7 +41,7 @@ body {
   -webkit-text-stroke: 2px #00c0c0;
 }
 .panel5 {
-  background-image: url(../pictures/reunion.jpg);
+  background-image: url(../pictures/cober.jpg);
   -webkit-text-stroke: 2px #400098;
 }
 .panel > * {
